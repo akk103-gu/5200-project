@@ -1,1 +1,9 @@
-
+.gradient-box {
+    /* Sets the background to a linear gradient from black (top) to white (bottom) */
+    background-image: linear-gradient(black, white);
+    
+    height: 200px; 
+    
+    color: black;
+    padding: 15px;
+}
